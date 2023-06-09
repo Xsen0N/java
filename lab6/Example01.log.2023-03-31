@@ -1,0 +1,7 @@
+31.03.2023 17:28:16 [main] INFO  QueryData  - Starting program_____________________________
+31.03.2023 17:46:05 [main] INFO  InsertData  - Starting program for inserting data_____________________________
+31.03.2023 17:46:06 [main] INFO  InsertData  - Connected to database_____________________________
+31.03.2023 17:46:06 [main] INFO  InsertData  - Connected to database_____________________________
+31.03.2023 17:46:06 [main] INFO  InsertData  - added values into table_____________________________
+31.03.2023 17:46:06 [main] INFO  InsertData  - Disconnected from database_____________________________
+31.03.2023 17:46:06 [main] INFO  InsertData  - Ending program_____________________________

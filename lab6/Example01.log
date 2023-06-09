@@ -1,0 +1,10 @@
+06.04.2023 18:06:38 [main] INFO  QueryData  - Starting program for requests_____________________________
+06.04.2023 18:06:39 [main] INFO  QueryData  - Connected to database_____________________________
+06.04.2023 18:06:40 [main] INFO  QueryData  - Created query№1_____________________________
+06.04.2023 18:06:40 [main] INFO  QueryData  - Created query№2_____________________________
+06.04.2023 18:06:40 [main] INFO  QueryData  - Created query№3_____________________________
+06.04.2023 18:06:40 [main] INFO  QueryData  - Created query№4_____________________________
+06.04.2023 18:06:40 [main] INFO  QueryData  - Created query№5_____________________________
+06.04.2023 18:06:40 [main] INFO  QueryData  - Disconnected from database_____________________________
+06.04.2023 18:06:40 [main] INFO  QueryData  - Disconnected from database_____________________________
+06.04.2023 18:06:40 [main] INFO  QueryData  - ending program_____________________________

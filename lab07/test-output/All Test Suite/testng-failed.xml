@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT">
+  <parameter name="channel_name" value="TestChannel"/>
+  <parameter name="state5" value="switch"/>
+  <parameter name="state2" value="switch_off"/>
+  <parameter name="state1" value="switch_on"/>
+  <parameter name="state4" value="waiting"/>
+  <parameter name="state3" value="watching"/>
+  <test thread-count="5" name="class_test(failed)">
+    <groups>
+      <run>
+        <include name="change"/>
+        <include name="show"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="test2">
+        <methods>
+          <include name="testCountSubscribers"/>
+          <include name="testHasSubscriber"/>
+          <include name="testSetName"/>
+        </methods>
+      </class> <!-- test2 -->
+    </classes>
+  </test> <!-- class_test(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->

@@ -1,0 +1,20 @@
+01.04.2023 13:05:05 [main] INFO  QueryData  - Starting program for requests_____________________________
+01.04.2023 13:05:06 [main] INFO  QueryData  - Connected to database_____________________________
+01.04.2023 13:05:06 [main] INFO  QueryData  - Created query№1_____________________________
+01.04.2023 13:05:06 [main] INFO  QueryData  - Created query№2_____________________________
+01.04.2023 13:05:06 [main] INFO  QueryData  - Created query№3_____________________________
+01.04.2023 13:05:06 [main] INFO  QueryData  - Created query№4_____________________________
+01.04.2023 13:05:06 [main] INFO  QueryData  - Created query№5_____________________________
+01.04.2023 13:05:06 [main] INFO  QueryData  - Disconnected from database_____________________________
+01.04.2023 13:05:06 [main] INFO  QueryData  - Disconnected from database_____________________________
+01.04.2023 13:05:06 [main] INFO  QueryData  - ending program_____________________________
+01.04.2023 13:09:07 [main] INFO  QueryData  - Starting program for requests_____________________________
+01.04.2023 13:09:08 [main] INFO  QueryData  - Connected to database_____________________________
+01.04.2023 13:09:08 [main] INFO  QueryData  - Created query№1_____________________________
+01.04.2023 13:09:08 [main] INFO  QueryData  - Created query№2_____________________________
+01.04.2023 13:09:08 [main] INFO  QueryData  - Created query№3_____________________________
+01.04.2023 13:09:08 [main] INFO  QueryData  - Created query№4_____________________________
+01.04.2023 13:09:08 [main] INFO  QueryData  - Created query№5_____________________________
+01.04.2023 13:09:08 [main] INFO  QueryData  - Disconnected from database_____________________________
+01.04.2023 13:09:08 [main] INFO  QueryData  - Disconnected from database_____________________________
+01.04.2023 13:09:08 [main] INFO  QueryData  - ending program_____________________________

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+        <parameter name="channel_name" value="TestChannel"></parameter>
+        <parameter name="state1" value="switch_on"></parameter>
+        <parameter name="state2" value="switch_off"></parameter>
+        <parameter name="state3" value="watching"></parameter>
+        <parameter name="state4" value="waiting"></parameter>
+        <parameter name="state5" value="switch"></parameter>
+
+        <test name="state_test">
+                <groups>
+                        <run>
+                                <include name="state"/>
+                        </run>
+                </groups>
+                <classes>
+                        <class name="statustest"></class>
+                        <class name="TestNGTest"></class>
+                </classes>
+        </test>
+
+
+</suite>
